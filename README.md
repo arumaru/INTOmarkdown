@@ -19,7 +19,7 @@ Fyrir þetta verkefni ákvað ég að setja Linux Mint 15 upp á Virtualbox í W
 
 ## 2. Uppsetning á vim && git
 
-Uppsetningin á þessum tveimur forritum gekk mjög fljótt og gjörsamlega hnökralaust, enda apt-get skipunin göldrum líkust. Þar sem hvorugur okkar hafði nokkra reynslu af þessum tveimur forritum, þá nýttum við okkur leiðbeiningar gefnar í verkefnislýsingunni. Eftir svolítið fikt komumst við á þá sameiginlegu niðurstöðu að Vim sé ákaflega vænn og viðmótsþýður ritþór, vel þess virði að tileinka sér og stúdera. 
+Uppsetningin á þessum tveimur forritum gekk mjög fljótt og gjörsamlega hnökralaust, enda apt-get skipunin göldrum líkust. Þar sem hvorugur okkar hafði nokkra reynslu af forritunum tveimur, þá nýttum við okkur leiðbeiningar gefnar í verkefnislýsingunni. Eftir svolítið fikt komumst við á þá sameiginlegu niðurstöðu að Vim sé ákaflega vænn og viðmótsþýður ritþór, vel þess virði að tileinka sér og stúdera. 
 
 ## 3. Unnið með Git (1. hluti)
 
@@ -42,4 +42,4 @@ Afraksturinn má nálgast hér: [INTOprufa](https://github.com/arumaru/INTOPrufa
 
 ## 5. Unnið með Git (2. hluti)
 
-Hér þarf ekkert að gera annað en að setja niðurstöður úr 4. fyrstu liðunum inn í þetta skjal.
+Nú hafa niðurstöðurnar verið færðar inn í fyrstu fjóra liði skjalsins og því full ástæða til að sleppa þessum lið.
