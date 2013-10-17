@@ -11,9 +11,11 @@ Open Source
 
 ![Linux Mint 15](http://i.imgur.com/eX5Riul.jpg)    
 
+**Atli**: 
+
 ## 2. Uppsetning á vim && git
 
-Uppsetningin á þessum tveimur forritum gekk mjög fljótt og gjörsamlega hnökralaust, enda apt-get skipunin göldrum líkust. 
+Uppsetningin á þessum tveimur forritum gekk mjög fljótt og gjörsamlega hnökralaust, enda apt-get skipunin göldrum líkust. Þar sem hvorugur okkar hafði nokkra reynslu af þessum tveimur forritum, þá nýttum við okkur leiðbeiningar gefnar í verkefnislýsingunni. Eftir svolítið fikt komumst við á þá sameiginlegu niðurstöðu að Vim sé ákaflega vænn og viðmótsþýður ritþór, vel þess virði að tileinka sér og stúdera. 
 
 ## 3. Unnið með Git (1. hluti)
 
@@ -23,8 +25,15 @@ Afraksturinn má nálgast hér: [INTOprufa](https://github.com/arumaru/INTOPrufa
 
 ## 4. Uppsettur hugbúnaður
 
-Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar (sjá verkefnislýsingu).
+ * **Almar**
+  1. Forrit
+  2. Forrit
+  3. Forrit
+ * **Atli**
+  1. Forrit
+  2. Forrit
+  3. Forrit
 
 ## 5. Unnið með Git (2. hluti)
 
-ér þarf ekkert að gera annað en að setja niðurstöður úr 4. fyrstu liðunum inn í þetta skjal.
+Hér þarf ekkert að gera annað en að setja niðurstöður úr 4. fyrstu liðunum inn í þetta skjal.
