@@ -23,7 +23,8 @@ Uppsetningin á þessum tveimur forritum gekk mjög fljótt og gjörsamlega hnö
 
 ## 3. Unnið með Git (1. hluti)
 
-Forkunin gekk vel. Leiðbeiningum í verkefnislýsingu á MySchool var fylgt í einu og öllu og ekkert vafðist fyrir okkur í framkvæmdinni.
+Forkunin gekk vel. Leiðbeiningum í verkefnislýsingu á MySchool var fylgt í einu og öllu og ekkert vafðist fyrir okkur í framkvæmdinni fyrst um sinn.
+Einu teljanlegu vandræðin voru þau að ég (Almar) gleymdi að tilgreina Atla sem collaborator í INTOmarkdown. Fyrir vikið klónaði hann repositoryið án þess að vera collaborator og þegar hann reyndi að vinna með möppuna fékk hann framandi villumeldingar. Þessu var kippt í liðinn með því að eyða möppunni og klóna hana aftur eftir að hafa verið gerður collaborator. Að því loknu gekk allt eins og í sögu og ekkert fór úrskeiðis að okkur vitandi.
 
 Afraksturinn má nálgast hér: [INTOprufa](https://github.com/arumaru/INTOPrufa)
 
