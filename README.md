@@ -1,8 +1,8 @@
 Open Source
 
 #### Meðlimir þessa hóps eru: ####
--Almar Daði Kristjánsson
--Atli Freyr Einarsson
+*Almar Daði Kristjánsson
+*Atli Freyr Einarsson
 
 ## 1. Linux uppsetning
 
