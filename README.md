@@ -38,7 +38,7 @@ Afraksturinn má nálgast hér: [INTOprufa](https://github.com/arumaru/INTOPrufa
  * **Atli**
 1. **Mozilla Firefox** er mjög vinsæll vafri og eitt stærsta open source verkefni í heimi. Honum er dreift undir Mozilla Public License og kóðann má nálgast [hér](http://www.ohloh.net/p/firefox).
 2. **VLC** er mjög vinsæll myndbandaspilari sem styður fjölbreytt úrval svonefndra codeca. Honum er dreift undir GNU General Public License og GNU Lesser General Public License. Kóðann má nálgast [hér](http://www.videolan.org/vlc/download-sources.html).
-3. **GIMP (GNU Image Manipulation Program)** er myndvinnsluforrit sem fylgir með mörgum Linux-distróum og hentar vel í ýmsa hversdagslega vinnslu. Það er gefið út undir GNU General Public License 3 og GNU Lesser General Public License 3. Kóðann má nálgast á [hér](http://www.gimp.org/source/).
+3. **GIMP (GNU Image Manipulation Program)** er myndvinnsluforrit sem fylgir með mörgum Linux-distróum og hentar vel í ýmsa hversdagslega vinnslu. Það er gefið út undir GNU General Public License 3 og GNU Lesser General Public License 3. Kóðann má nálgast [hér](http://www.gimp.org/source/).
 
 ## 5. Unnið með Git (2. hluti)
 
