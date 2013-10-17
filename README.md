@@ -12,6 +12,10 @@ Open Source
 ![Linux Mint 15](http://i.imgur.com/eX5Riul.jpg)    
 
 **Atli**: 
+Ég byrjaði á því að setja upp Linux Mint í dual-boot ásamt Win7 á tölvuna mína fyrir u.þ.b. mánuði síðan. Það gekk vel og en fór þó fljótt að bera á alls kyns stýrikerfisvillum. Líklega voru þessar villur orsakaðar af fikti í skrám sem ekki á að fikta í. 
+Fyrir þetta verkefni ákvað ég að setja Linux Mint 15 upp á Virtualbox í Windows 7. Það reyndist vera mjög einfalt og þægilegt og gekk því snuðrulaust.
+![Mint-Atli](http://oi44.tinypic.com/29byizc.jpg)
+
 
 ## 2. Uppsetning á vim && git
 
